@@ -1,0 +1,5 @@
+主修课程：Spring Boot，Spring Mvc，Spring，Mavin，myBatis，MyBatis Plus，VUE，ajax，java Web，JavaOOP，微信小程序，uin-app，MySql，SQL Server，winform，C#，BootStrap，JQuery，JavaSprint，HTML+CSS，JAVA基础，PS，AI，PR，ID，
+
+
+公司：搜鱼信息技术有限公司 
+
